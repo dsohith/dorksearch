@@ -1,0 +1,75 @@
+ body {
+	background-image: url("background.jpg")
+}
+
+h1 {
+
+top :50%;	
+font-family :"Viner Hand ITC";
+color: white;
+font-size: 70px;
+}
+ 
+ .searchbox1 {
+  
+	 
+	display: inline; 
+	border: none;
+	outline: none;
+	background: #fff;
+	width: 40%;
+	height: 60px;
+	
+	margin: 0;
+	z-index: 10;
+	padding: 20px 65px 20px 20px;
+	font-family: inherit;
+	font-size: 20px;
+	color: #2c3e50;
+}
+
+input[type="search"].searchbox1 {
+	-webkit-appearance: none;
+	-webkit-border-radius: 0px;
+}
+
+.button {
+	width: 80px;
+	height: 60px;
+	display: inline;
+	position: absolute;
+	 
+	
+	  	
+    background-image: url("searchicon.png");
+	 
+	 
+	 
+	 
+	 
+}
+a  {
+	font-family: Kristen ITC;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+h2 {
+	font-family: Bradley Hand ITC;
+	color: white;
+}
+
+.footer {
+	position:absolute;
+	color:grey;
+	right: 0;
+    bottom: 0;
+    left: 0;	
+	text-align: right;
+	}
+	
+	
+	 
+	
+}	

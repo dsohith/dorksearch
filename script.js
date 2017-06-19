@@ -1,0 +1,4 @@
+function msg()
+{
+alert("abc");
+}
